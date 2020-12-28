@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i("Amount in Euros", amountInEurosString);
 
-        Toast.makeText(this, amountInLitai + "LT" + " is €" +amountInEurosString, Toast.LENGTH_LONG).show();
+        Toast.makeText(this, amountInLitai + "LT litai" + " is €" +amountInEurosString, Toast.LENGTH_LONG).show();
 
     }
 
